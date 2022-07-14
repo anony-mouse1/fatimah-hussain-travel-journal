@@ -3,7 +3,9 @@
 
 https://user-images.githubusercontent.com/67985868/179118840-eb5b48a4-b977-4083-93c0-9e1b9c6a0288.mp4
 
+##About
 
+Encompasses Fatimah's favorite sightseeing adventures from her summer 2022 trip to Europe's greatest destination.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
